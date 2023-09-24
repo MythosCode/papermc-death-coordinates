@@ -1,0 +1,4 @@
+name: death-coordinates
+version: '${version}'
+main: icu.nymph.mythoscode.papermc.DeathCoordinates
+api-version: '1.20'
